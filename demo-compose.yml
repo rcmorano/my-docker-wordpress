@@ -1,6 +1,6 @@
 version: '2'
 services:
-  demo-_PROJECT_NAME_.emergyalabs.com:
+  demo-dev-my-wordpress.example.com:
     image: ${DOCKER_IMAGE}
     ports:
       - "22122:22"

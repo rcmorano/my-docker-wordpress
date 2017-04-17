@@ -1,6 +1,6 @@
 version: '2'
 services:
-  stg-_PROJECT_NAME_.emergyalabs.com:
+  stg-dev-my-wordpress.example.com:
     image: ${DOCKER_IMAGE}
     ports:
       - "22122:22"

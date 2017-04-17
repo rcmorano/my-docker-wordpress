@@ -1,6 +1,6 @@
 version: '2'
 services:
-  dev-_PROJECT_NAME_.emergyalabs.com:
+  dev-my-wordpress.example.com:
     image: ${DOCKER_IMAGE}
     environment:
       - HOST_UID=${HOST_UID}

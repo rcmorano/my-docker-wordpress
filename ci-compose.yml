@@ -1,6 +1,6 @@
 version: '2'
 services:
-  ci-_PROJECT_NAME_.emergyalabs.com:
+  ci-dev-my-wordpress.example.com:
     image: ${DOCKER_IMAGE}
     ports:
       - "22122:22"
